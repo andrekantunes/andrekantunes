@@ -7,42 +7,36 @@
 
 ## 👽 About me
 
+- Quick learner and programming enthusiast
+- Solving real world problems using technology
+
 ## 🚂 Currently learning
 
-<p>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=andrekantunes&show_icons=true&count_private=true&theme=dark" height="175">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrekantunes&layout=compact&theme=dark&hide=css,html" height = "175">
-    <br>
-    <br>
-  </a>
-<p>
+- Data Science
+- Machine Learning
+- Applied Statistics
   
 ## 🏅 Achievements
 
-## Languages and Frameworks:
-![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-649ad2?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-important?style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-success?style=for-the-badge&logo=Express&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=Node.js&logoColor=fffff)
-![JavaScript](https://img.shields.io/badge/Javascript-ffd700?style=for-the-badge&logo=Javascript&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- Data Analysis (In progress...)
+- Applied Artificial Intelligence (In progress...)
+- Systems Development and Analysis (Graduated 2021)
 
-## Platforms and Tools:
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=ffffff)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Unreal](https://img.shields.io/badge/Unreal-181717?style=for-the-badge&logo=Unreal-Engine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-202020?style=for-the-badge&logo=Unity&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+## 📝 Languages and Frameworks:
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-important?style=for-the-badge&logo=Java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-ffd700?style=for-the-badge&logo=Javascript&logoColor=white)
   
 ## 📫 How to reach me
-
 <p align='center'>
   <br>
   <a href="https://www.kaggle.com/andrekantunes">
