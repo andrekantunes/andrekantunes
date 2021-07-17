@@ -42,7 +42,7 @@
   <a href="https://www.kaggle.com/andrekantunes">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/andre-antunes-385127214/">
+  <a href="https://www.linkedin.com/in/andre-klingenfus-antunes-385127214/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/andrekantunes">
