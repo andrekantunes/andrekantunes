@@ -14,6 +14,7 @@
 ## 💼 My Projects
 
 [PayCheck Salário](https://play.google.com/store/apps/details?id=com.paycheck.evaluation "PayCheck Salário")
+[PPrices - Avaliar Apartamento](https://play.google.com/store/apps/details?id=com.pprices)
 
 
 ## 🚂 Currently learning
@@ -24,7 +25,7 @@
   
 ## 🏅 Achievements
 
-- Applied Artificial Intelligence (In progress...)
+- Applied Artificial Intelligence (Graduated 2022)
 - Data Analysis (Graduated 2021)
 - Systems Development and Analysis (Graduated 2021)
 
