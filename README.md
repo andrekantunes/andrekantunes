@@ -14,7 +14,7 @@
 ## 💼 My Projects
 
 [PayCheck Salário](https://play.google.com/store/apps/details?id=com.paycheck.evaluation "PayCheck Salário")
-[PPrices - Avaliar Apartamento](https://play.google.com/store/apps/details?id=com.pprices)
+[PPrices - Avaliar Apartamento](https://play.google.com/store/apps/details?id=com.pprices "PPrices - Avaliar Apartamento")
 
 
 ## 🚂 Currently learning
